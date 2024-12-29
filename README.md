@@ -1,7 +1,7 @@
 
  ## Hi there! Welcome to my GitHub! <3 
 
-My name is Olivia and I'm a 4th-year Biochemistry student with a newfound passion for **Bioinformatics**. As someone still exploring the exciting world of computational research, I'm eager to dive into new projects, learn, and grow along the way.
+My name is Olivia and I'm a 4th-year Biochemistry student with a newfound passion for **Bioinformatics**. As someone still exploring the exciting world of computational research, I'm eager to dive into new projects, learn, and grow along the way. I'll be focusing on bacterial organisms for my work, as their smaller genome size is more manageable.
 
 This GitHub will be my space to share my work, progress, and discoveries as I embark on this in silico learning journey.
 
@@ -13,7 +13,10 @@ My current interests include:
   - Genomics
 
 Current Project: 
-  - *Variant Analysis in Human Genomic Data*
+  - *Bacterial Genome Analysis with a Focus on Antibiotic Resistance Genes*
+
+Previous Projects
+- *Variant Analysis in Human Genomic Data* (incomplete)
 <!--
 **OliviaH09/OliviaH09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
