@@ -13,10 +13,10 @@ My current interests include:
   - Genomics
 
 Current Project: 
-  - *Bacterial Genome Analysis with a Focus on Antibiotic Resistance Genes*
+  - *Functional Genomic Characterization of a Hypothetical Bacterial Genome*
 
 Previous Projects
-- *Variant Analysis in Human Genomic Data* (incomplete)
+ 
 <!--
 **OliviaH09/OliviaH09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
